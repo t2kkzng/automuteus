@@ -1,0 +1,1 @@
+discordbot: go main.go
